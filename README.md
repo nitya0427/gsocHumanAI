@@ -1,3 +1,7 @@
+Automating text recognition and transliteration of historical documents with weighted convolutional - recurrent architectures
+
+
+
 This project aims to develop an automated text recognition and transliteration system for historical Spanish documents from the 17th century. Traditional OCR tools struggle with early printed texts, so this project employs a hybrid CNN-RNN model enhanced with weighted learning techniques and lexicon-based constrained beam search decoding to improve recognition accuracy.
 
 Methods Used
